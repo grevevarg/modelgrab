@@ -69,7 +69,7 @@ uv run main.py --mode iterative --list-versions --file models.txt
 
 ## Future expansion
 
-Add webscraping functionality for a better effort automatic folder placement.
-Support models being added into subfolders (chars/loras/poses or resolution factor for upscale models and so on)
-Support OpenModelDB downloads
-Support Huggingface downloads
+Add webscraping functionality for a better effort automatic folder placement.<br>
+Support models being added into subfolders (chars/loras/poses or resolution factor for upscale models and so on)<br>
+Support OpenModelDB downloads<br>
+Support Huggingface downloads<br>
