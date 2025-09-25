@@ -1,0 +1,24 @@
+# all paths should be realpath because im too lazy to implement the alternative
+
+[ComfyUI]
+comfyui_models_path = '/mnt/raid/imagegen/ComfyUI/models'
+
+[Override]
+override = false
+checkpoints_path = ''
+clip_path = ''
+clip_vision_path = ''
+controlnet_path = ''
+diffusers_path = ''
+diffusion_models_path = ''
+embeddings_path = ''
+gligen_path = ''
+hypernetworks_path = ''
+loras_path = ''
+photomaker_path = ''
+style_models_path = ''
+text_encoders_path = ''
+unet_path = ''
+upscale_models_path = ''
+vae_path = ''
+vae_approx_path = ''
